@@ -1,0 +1,16 @@
+.video-container {
+    position: relative;
+    height: 90vh;
+    
+    margin-top: 0px;
+    width: 120%;
+    margin-left: -10px;
+  }
+  
+  .content-container {
+    position: absolute;
+    
+    margin-top:-500px;
+    margin-left: 20%
+  }
+  

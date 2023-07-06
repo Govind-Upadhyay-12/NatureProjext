@@ -1,0 +1,16 @@
+.aeo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.pr img{
+    border-radius: 10px;
+    box-shadow: inset 0 -5em 7em rgba(243, 239, 239, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+.pr img:hover{
+    transform: scale(1.1);
+    /* transition: cubic-bezier(0.075, 0.82, 0.165, 1); */
+    /* transform-box: 10px; */
+}

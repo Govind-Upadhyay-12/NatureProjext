@@ -1,0 +1,26 @@
+
+.super{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+    box-shadow: 20px;
+    /* border: 2px solid whitesmoke; */
+}
+.oe{
+    margin-left: 20px;
+    font-weight: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.paji{
+    border-radius: 10px;
+}
+.mainnn{
+    
+    box-shadow: inset 0 -3em 3em rgba(243, 239, 239, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  
+}
+.mainnn:hover{
+    transform: scale(1.1);
+}

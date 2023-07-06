@@ -1,0 +1,14 @@
+.thehero{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+.pri{
+    color: white  ;
+}
+.pri h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.puy{
+    
+}

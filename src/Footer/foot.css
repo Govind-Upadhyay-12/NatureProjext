@@ -1,0 +1,26 @@
+.tex{
+    margin-left: 30%;
+    white-space: nowrap;
+    margin-top: 190px;
+}
+.tex h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.tex h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 180px;
+    color: white;
+}
+.bete{
+    margin-left: 42%;
+    display: flex;
+    gap:4%;
+}
+.hulk{
+    background-color: black;
+}
+.fotva{
+    display: flex;
+    justify-content: space-around;
+}

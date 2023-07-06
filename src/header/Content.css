@@ -1,0 +1,49 @@
+.hero{
+    display: flex;
+    gap:50%;
+    background-color: black;
+    margin-top: -7.8px;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.items{
+    display: flex;
+    gap: 28%;
+    list-style: none;
+    flex-flow: row;
+    /* position: absolute; */
+}
+.btn{
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    margin-left: 35%;
+    border: 3px solid white;
+    margin-top: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.items li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    font-size: 24px;
+    color: white;
+    margin-top: 6px;
+    cursor: pointer;
+}
+.btn:hover{
+    box-shadow: 2px 1px;
+}
+.h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    font-size: 24px;
+    color: white;
+    margin-top: 6px;
+    cursor: pointer;
+
+}
